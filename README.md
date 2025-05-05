@@ -9,30 +9,19 @@
   but most importantly learning new stuff and letting my creativity make cool (or not) projects out of the learning.
 </p>
 
----
-
-### 📊 Me, Myself & I
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dylouwu&show_icons=true&theme=github_dark&rank_icon=github&count_private=true&hide_border=true" alt="Dylouwu's GitHub Stats" height="192px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dylouwu&show_icons=true&theme=jolly&bg_color=0d1116&rank_icon=github&count_private=true&hide_border=true&hide#gh-dark-mode-only" alt="Dylouwu's GitHub Stats" height="192px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dylouwu&show_icons=true&theme=default&bg_color=ffffff&rank_icon=github&count_private=true&hide_border=true&hide#gh-light-mode-only" alt="Dylouwu's GitHub Stats" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="192px"/>
- </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&layout=compact&theme=jolly&hide_border=true&langs_count=8&hide=powershell,mcfunction&bg_color=0d1116#gh-dark-mode-only" alt="Top Languages" height="192px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&layout=compact&theme=default&hide_border=true&langs_count=8&hide=powershell,mcfunction&bg_color=ffffff#gh-light-mode-only" alt="Top Languages" height="192px"/>
+  </a>
 </p>
 
----
 
-### 🪽 Technologies I Value
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cmake,python,nix,linux,bash,github,neovim" alt="My Skills"/>
-    </a>
-</p> 
-
----
 
 ### 🌱 What I'm Up To
 
@@ -41,4 +30,3 @@
 * 🖥️ Managing my Minecraft server and homelab.
 * 😇 Always learning new stuff, life's a blessing!
 
----
