@@ -48,3 +48,108 @@
 * 🖥️ Managing my Minecraft server and homelab.
 * 😇 Always learning new stuff, life's a blessing!
 
+### My Repos
+
+<p align="center">
+  <a href="https://github.com/Dylouwu/MyNixy"><picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=MyNixy&theme=jolly&bg_color=0d1116"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=MyNixy&theme=jolly&bg_color=ffffff&text_color=0d1116"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=MyNixy&theme=jolly&bg_color=ffffff&text_color=0d1116" alt="MyNixy Pin" height="160px"/>
+    </picture></a><a href="https://github.com/Dylouwu/glance-minecraft-power"><picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=glance-minecraft-power&theme=jolly&bg_color=0d1116"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=glance-minecraft-power&theme=jolly&bg_color=ffffff&text_color=0d1116"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=glance-minecraft-power&theme=jolly&bg_color=ffffff&text_color=0d1116" alt="glance-minecraft-power Pin" height="160px"/>
+    </picture></a><a href="https://github.com/Dylouwu/The_Adventure_Dude"><picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=The_Adventure_Dude&theme=jolly&bg_color=0d1116"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=The_Adventure_Dude&theme=jolly&bg_color=ffffff&text_color=0d1116"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=The_Adventure_Dude&theme=jolly&bg_color=ffffff&text_color=0d1116" alt="The_Adventure_Dude Pin" height="160px"/>
+    </picture></a><a href="https://github.com/Dylouwu/MC_Server"><picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=MC_Server&theme=jolly&bg_color=0d1116"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=MC_Server&theme=jolly&bg_color=ffffff&text_color=0d1116"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=MC_Server&theme=jolly&bg_color=ffffff&text_color=0d1116" alt="MC_Server Pin" height="160px"/>
+    </picture></a><a href="https://github.com/Dylouwu/psconfig"><picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=psconfig&theme=jolly&bg_color=0d1116"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=psconfig&theme=jolly&bg_color=ffffff&text_color=0d1116"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=psconfig&theme=jolly&bg_color=ffffff&text_color=0d1116" alt="psconfig Pin" height="160px"/>
+    </picture></a><a href="https://github.com/Dylouwu/learncpp"><picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=learncpp&theme=jolly&bg_color=0d1116"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=learncpp&theme=jolly&bg_color=ffffff&text_color=0d1116"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=learncpp&theme=jolly&bg_color=ffffff&text_color=0d1116" alt="learncpp Pin" height="160px"/>
+    </picture></a><a href="https://github.com/Dylouwu/GBEmu"><picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=GBEmu&theme=jolly&bg_color=0d1116"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=GBEmu&theme=jolly&bg_color=ffffff&text_color=0d1116"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=GBEmu&theme=jolly&bg_color=ffffff&text_color=0d1116" alt="GBEmu Pin" height="160px"/>
+    </picture></a><a href="https://github.com/Dylouwu/ProjectEuler"><picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=ProjectEuler&theme=jolly&bg_color=0d1116"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=ProjectEuler&theme=jolly&bg_color=ffffff&text_color=0d1116"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=ProjectEuler&theme=jolly&bg_color=ffffff&text_color=0d1116" alt="ProjectEuler Pin" height="160px"/>
+    </picture></a><a href="https://github.com/Dylouwu/TAMACONTEST"><picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=TAMACONTEST&theme=jolly&bg_color=0d1116"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=TAMACONTEST&theme=jolly&bg_color=ffffff&text_color=0d1116"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=TAMACONTEST&theme=jolly&bg_color=ffffff&text_color=0d1116" alt="TAMACONTEST Pin" height="160px"/>
+    </picture></a><a href="https://github.com/Dylouwu/Advent2023"><picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=Advent2023&theme=jolly&bg_color=0d1116"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=Advent2023&theme=jolly&bg_color=ffffff&text_color=0d1116"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dylouwu&repo=Advent2023&theme=jolly&bg_color=ffffff&text_color=0d1116" alt="Advent2023 Pin" height="160px"/>
+    </picture></a>
+</p>
