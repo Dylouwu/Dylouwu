@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about how computers work, getting t
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 Me
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about how computers work, getting t
 
 ---
 
-### 🔧 Technologies & Tools I Use
+### 😇 Technologies I Value
 
 <p align="left">
   <a href="https://skillicons.dev">
