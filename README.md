@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm passionate about how computers work, getting t
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dylouwu&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" alt="Dylouwu's GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dylouwu&show_icons=true&theme=github_dark&rank_icon=github&count_private=true&hide_border=true" alt="Dylouwu's GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
  </a>
 </p>
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about how computers work, getting t
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,golang,windows,nixos,bash,github,neovim" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,golang,windows,nix,bash,github,neovim" alt="My Skills"/>
     </a>
 </p>
 
