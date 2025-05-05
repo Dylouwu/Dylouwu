@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm passionate about how computers work, getting t
  </a>
 </p>
 
----
 
 ## 🪽 Technologies I Value
 
@@ -27,7 +26,6 @@ Welcome to my GitHub profile! I'm passionate about how computers work, getting t
     </a>
 </p>
 
----
 
 ## 🌱 What I'm Up To
 
