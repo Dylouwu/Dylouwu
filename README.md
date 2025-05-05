@@ -4,7 +4,7 @@
   </p>
 
 <p align="center">
-  Welcome to my GitHub profile! <br/>
+  <strong>Welcome to my GitHub profile!</strong><br/>
   I'm passionate about how computers work, getting the best out of them (maybe a bit too much sometimes), <br/>
   but most importantly learning new stuff and letting my creativity make cool (or not) projects out of the learning.
 </p>
