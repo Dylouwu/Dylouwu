@@ -1,4 +1,4 @@
-# Dylouwu here !
+# 🌸 Dylouwu here !
 
 <p align="center">
   </p>
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about how computers work, getting t
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,golang,windows,nix,bash,github,neovim" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=cmake,python,nix,windows,linux,bash,github,neovim" alt="My Skills"/>
     </a>
 </p>
 
