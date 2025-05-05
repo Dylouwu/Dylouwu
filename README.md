@@ -12,12 +12,30 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dylouwu&show_icons=true&theme=jolly&bg_color=0d1116&rank_icon=github&count_private=true&hide_border=true&hide#gh-dark-mode-only" alt="Dylouwu's GitHub Stats" height="192px"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dylouwu&show_icons=true&theme=default&bg_color=ffffff&rank_icon=github&count_private=true&hide_border=true&hide#gh-light-mode-only" alt="Dylouwu's GitHub Stats" height="192px"/>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Dylouwu&show_icons=true&theme=jolly&bg_color=0d1116&count_private=true&hide_border=true"
+        media="(prefers-color-scheme: dark),  (prefers-color-scheme: no-preference)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Dylouwu&show_icons=true&theme=jolly&bg_color=ffffff&count_private=true&hide_border=true"
+        media="(prefers-color-scheme: light)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=Dylouwu&show_icons=true&theme=jolly&bg_color=0d1116&count_private=true&hide_border=true" alt="Dylouwu's GitHub Stats" height="192px"/>
+    </picture>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&layout=compact&theme=jolly&hide_border=true&langs_count=8&hide=powershell,mcfunction&bg_color=0d1116#gh-dark-mode-only" alt="Top Languages" height="192px"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&layout=compact&theme=default&hide_border=true&langs_count=8&hide=powershell,mcfunction&bg_color=ffffff#gh-light-mode-only" alt="Top Languages" height="192px"/>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&layout=compact&theme=jolly&bg_color=0d1116&hide_border=true&langs_count=8&hide=powershell,mcfunction"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&layout=compact&theme=jolly&bg_color=ffffff&hide_border=true&langs_count=8&hide=powershell,mcfunction"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&layout=compact&theme=jolly&bg_color=0d1116&hide_border=true&langs_count=8&hide=powershell,mcfunction" alt="Top Languages" height="192px"/>
+    </picture>
   </a>
 </p>
 
