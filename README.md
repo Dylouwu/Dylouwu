@@ -37,7 +37,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&exclude_repo=minecraft-datapacks&layout=compact&theme=jolly&bg_color=0d1116&hide_border=true&langs_count=8&hide=powershell,mcfunction" alt="Top Languages" height="192px"/>
     </picture>
   </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=Dylouwu&theme=dracula&no-frame=true&no-bg=true&title=-Stars" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dylouwu&theme=dracula&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies" />
 </p>
 
 
