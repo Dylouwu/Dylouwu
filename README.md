@@ -27,14 +27,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&layout=compact&theme=jolly&bg_color=0d1116&hide_border=true&langs_count=8&hide=powershell,mcfunction"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&exclude_repo=minecraft-datapacks&layout=compact&theme=jolly&bg_color=0d1116&hide_border=true&langs_count=8&hide=powershell"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&layout=compact&theme=jolly&bg_color=ffffff&text_color=0d1116&hide_border=true&langs_count=8&hide=powershell,mcfunction"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&exclude_repo=minecraft-datapacks&layout=compact&theme=jolly&bg_color=ffffff&text_color=0d1116&hide_border=true&langs_count=8&hide=powershell"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&layout=compact&theme=jolly&bg_color=0d1116&hide_border=true&langs_count=8&hide=powershell,mcfunction" alt="Top Languages" height="192px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylouwu&exclude_repo=minecraft-datapacks&layout=compact&theme=jolly&bg_color=0d1116&hide_border=true&langs_count=8&hide=powershell,mcfunction" alt="Top Languages" height="192px"/>
     </picture>
   </a>
 </p>
