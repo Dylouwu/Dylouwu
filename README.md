@@ -46,5 +46,5 @@
 
 * ❄️ Refining my NixOS setup: **[MyNixy](https://github.com/Dylouwu/MyNixy)**
 * 🛡️ Making CTFs a piece of cake with: **[n4c](https://github.com/nix4cyber/n4c)**
-* 🖥️ Managing my Minecraft server and homelab.
+* 🖥️ Managing my Minecraft server and making some sick redstone builds.
 * 😇 Always learning new stuff, life's a blessing!
