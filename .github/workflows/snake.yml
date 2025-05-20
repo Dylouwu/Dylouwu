@@ -25,10 +25,10 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # Light mode SVG: White background with your perfect pink gradient
-            dist/github-snake.svg?color_snake=#00BCD4&color_dots=#FFFFFF,#F8BBD0,#F48FB1,#EC407A,#D81B60
-            # Dark mode SVG: GitHub's dark background with your perfect sakura pink gradient
-            dist/github-snake-dark.svg?color_snake=#00BCD4&color_dots=#0D1117,#8C456D,#C5749E,#E79EBB,#F8BBD0
+            # Light mode SVG: White background with perfect pink gradient and Amethyst Purple snake
+            dist/github-snake.svg?color_snake=#8E24AA&color_dots=#FFFFFF,#F8BBD0,#F48FB1,#EC407A,#D81B60
+            # Dark mode SVG: GitHub's dark background with perfect sakura pink gradient and Amethyst Purple snake
+            dist/github-snake-dark.svg?color_snake=#8E24AA&color_dots=#0D1117,#8C456D,#C5749E,#E79EBB,#F8BBD0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
