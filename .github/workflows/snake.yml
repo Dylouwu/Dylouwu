@@ -27,8 +27,8 @@ jobs:
           outputs: |
             # Custom light mode SVG: subtle pink base, then clear, vibrant pinks
             dist/github-snake.svg?color_snake=#EA80FC&color_dots=#FCE4EC,#F8BBD0,#F48FB1,#EC407A,#D81B60
-            # Custom dark mode SVG: dark base, with a stronger, clearer pink gradient ending in sakura pink
-            dist/github-snake-dark.svg?color_snake=#EA80FC&color_dots=#1A051C,#4B002E,#7A004B,#D81B60,#F8BBD0
+            # Custom dark mode SVG: dark base, with a gradient of darker sakura pinks leading to the light sakura pink
+            dist/github-snake-dark.svg?color_snake=#EA80FC&color_dots=#1A051C,#8C456D,#C5749E,#E79EBB,#F8BBD0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
