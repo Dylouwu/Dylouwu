@@ -1,5 +1,3 @@
-![banner](banner.png)
-
 # 🌸 Hello here !
 
 <p align="center">
